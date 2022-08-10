@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.input_data{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.input_data div{
+  font-size: 25px;
+  width: 38px;
+  border-radius: 22px;
+  padding-bottom: 4px;
+  margin-left: 15px;
+  border: solid aqua;
+  color: aqua;
+}
+

@@ -1,0 +1,20 @@
+.list{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.element{
+    background-color: greenyellow;
+    width: 50%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    height: 35px;
+    border: solid 5px green;
+    margin-top: 20px;
+}
+
+.delete{
+    font-size: 35px;
+}
